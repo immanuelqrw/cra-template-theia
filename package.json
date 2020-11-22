@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "React Template",
   "license": "mit",
-  "private": true,
+  "private": false,
   "homepage": "https://immanuelqrw.github.io",
   "main": "template.json",
   "repository": "git@github.com:immanuelqrw/cra-template-theia.git",
