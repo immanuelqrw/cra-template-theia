@@ -20,3 +20,8 @@ Run `yarn create react-app newPackage --template cra-template-theia` to create `
 ## Testing
 Run `yarn create react-app tia-tamera --template file:cra-template-theia` outside of package to create a package called `tia-tamera` locally.
 
+
+## Publish
+
+1. Run `yarn login`
+1. Run `yarn publish`. The version it asks for is the publishing version.
