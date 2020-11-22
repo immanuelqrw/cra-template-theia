@@ -5,6 +5,9 @@
   "license": "mit",
   "private": true,
   "homepage": "https://immanuelqrw.github.io",
+  "main": "template.json",
+  "repository": "git@github.com:immanuelqrw/cra-template-theia.git",
+  "author": "Immanuel Washington <code.immanuelqrw@gmail.com>",
   "dependencies": {
     "@types/classnames": "^2.2.9",
     "sass-loader": "^10.1.0",
